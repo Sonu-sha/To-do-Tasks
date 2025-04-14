@@ -1,6 +1,6 @@
 # TO-DO-LIST
 
-TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+TO-DO-LIST (Made using HTML CSS and JavaScript)
 
 See the App live at - https://daily-to-do-tasks.netlify.app/
 
